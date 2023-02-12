@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nested-react-router_hm17/static/css/main.fcd9155f.css",
+    "main.js": "/nested-react-router_hm17/static/js/main.9f7d01a4.js",
+    "index.html": "/nested-react-router_hm17/index.html",
+    "main.fcd9155f.css.map": "/nested-react-router_hm17/static/css/main.fcd9155f.css.map",
+    "main.9f7d01a4.js.map": "/nested-react-router_hm17/static/js/main.9f7d01a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd9155f.css",
+    "static/js/main.9f7d01a4.js"
+  ]
+}
